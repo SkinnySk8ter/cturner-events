@@ -1,11 +1,20 @@
 .carousel-inner{
      width:640px; 
-     height:360px;
+     height: 400px;
      }
  .carousel {
+     position: relative;
+     left: 25%;
      width: 640px;
      height: 360px;
  }    
  p {
      color: black;
+ }
+ .aboutcontainer {
+     background-color: gray;
+ }
+ .contactcontainer {
+     position: relative;
+     left: 39%;
  }
