@@ -1,20 +1,46 @@
+body {
+    background-image: url(https://previews.123rf.com/images/points/points1509/points150900081/46090162-grunge-white-background-cement-old-texture-wall.jpg);
+}
+.jumbotron {
+    background-image: url(https://previews.123rf.com/images/points/points1509/points150900081/46090162-grunge-white-background-cement-old-texture-wall.jpg);
+}
+
 .carousel-inner{
-     width:640px; 
-     height: 400px;
+     width:675px; 
+     height: 600px;
      }
  .carousel {
      position: relative;
-     left: 25%;
-     width: 640px;
-     height: 360px;
+     left: 28%;
+     width: 700px;
+     height: 600px;
  }    
  p {
-     color: black;
+    font-family: 'Kosugi Maru', sans-serif;
+     color: blue;
  }
  .aboutcontainer {
      background-color: gray;
  }
  .contactcontainer {
      position: relative;
-     left: 39%;
+     left: 45%;
+ }
+
+ .photo {
+     height: 75px;
+     width: 75px;
+ }
+ h1 {
+    font-family: 'Fredericka the Great', cursive;
+     position: relative;
+     left: 35%;
+ }
+ .lead {
+     position: relative;
+     left: 43%;
+ }
+ h2 {
+     position: relative;
+     left: 46%;
  }
